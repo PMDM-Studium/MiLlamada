@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Llamada</string>
+    <string name="btnLlamar">Hacer Llamada</string>
+    <string name="txtTelefono">Marque el número</string>
+</resources>
